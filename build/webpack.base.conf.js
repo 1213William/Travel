@@ -39,6 +39,7 @@ module.exports = {
       '@': resolve('src'),
       // 当webpack中的内容修改的时候，要重新启动运行一下当前的项目
       'styles': resolve('src/assets/styles'),
+      'common': resolve('src/common'),
     }
   },
   module: {
