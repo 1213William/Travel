@@ -20,4 +20,9 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-9.2  添加了vuex
+9.2. 完成了vuex、localStorage API、keep-alive优化网页性能
+
+9.3  完成详情页的布局以及动态数据更新
+
+
+
