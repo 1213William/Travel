@@ -7,11 +7,13 @@
 <script>
 import DetailBanner from './components/Banner'
 import axios from 'axios'
+
 export default {
   name: 'Detail',
   components: {
     DetailBanner,
-  }
+  },
+
 }
 </script>
 
