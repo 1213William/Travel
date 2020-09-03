@@ -74,6 +74,7 @@ export default {
       font-size .4rem
       margin-left -.06rem
   .header-fixed
+    z-index 2
     overflow hidden
     height .86rem
     line-height .86rem
