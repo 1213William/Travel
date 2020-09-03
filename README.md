@@ -26,11 +26,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-
-
-关于
-
-[https://3.swiper.com.cn/swiper]: 
-
-的内容：https://3.swiper.com.cn/
+[https://3.swiper.com.cn]: 	"关于swiper的内容"
 
